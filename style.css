@@ -72,7 +72,7 @@ body {
   background: var(--white);
   border-radius: 0.5rem;
   border: 0.0625rem solid rgba(255, 255, 255, 0.2);
-  box-shadow: 0 0.9375rem 1.875rem -0.6875rem rgba(76, 78, 97, 0.5);
+  box-shadow: 0 0.9375rem 1.875rem -0.6875rem rgba(76, 78, 97, 0.25);
   padding: 1.5rem 2rem 2rem 2rem;
   position: relative;
 }
